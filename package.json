@@ -6,12 +6,12 @@
   "type": "module",
   "scripts": {
     "start": "node app.js",
-    "test": "./node_modules/.bin/jest"
+    "test": "jest"
   },
-  "author": "Patrik Nygren",
+  "author": "Sanjana Mathiyalagan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.1"
+    "express": "^4.21.2"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.24.3",
@@ -25,5 +25,13 @@
     "transform": {
       "^.+\\.jsx?$": "babel-jest"
     }
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjanamathi18/node_calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanjanamathi18/node_calculator/issues"
+  },
+  "homepage": "https://github.com/sanjanamathi18/node_calculator#readme"
 }
