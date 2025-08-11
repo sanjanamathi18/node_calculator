@@ -1,5 +1,4 @@
 
-
 # Express Calculator
 
 This is a simple web-based calculator application built using Node.js, Express, and jQuery. It performs basic arithmetic operations and a few advanced calculations like percentage, GCD, and exponentiation.
