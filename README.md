@@ -44,7 +44,7 @@ The project has the following structure:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [[https://github.com/](https://github.com/patriques82/node_calculator)]
+    git clone [[https://github.com/]((https://github.com/sanjanamathi18/node_calculator))]
     ```
 
 2.  **Install dependencies:**
